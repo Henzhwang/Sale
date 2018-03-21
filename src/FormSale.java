@@ -58,7 +58,6 @@ public class FormSale extends javax.swing.JFrame {
             }
         });
 
-        purchasedInput.setText("$");
         purchasedInput.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 purchasedInputActionPerformed(evt);
